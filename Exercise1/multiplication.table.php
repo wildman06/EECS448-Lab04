@@ -10,7 +10,7 @@ for ($rows=0; $rows <= 100; $rows++)
     {
       if($rows == 0 && $cols == 0)
       {
-        echo "<td>fuck outta here</td>\n";
+        echo "<td></td>\n";
       }
       else if($rows == 0 && $cols != 0)
       {
