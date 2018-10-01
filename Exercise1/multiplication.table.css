@@ -1,0 +1,17 @@
+table
+{
+  width: 50px;
+   border:  solid grey;
+}
+
+th
+{
+
+border:  solid grey;
+}
+
+td
+{
+  text-align: center;
+  border: solid grey;
+}
